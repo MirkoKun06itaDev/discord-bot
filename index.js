@@ -363,7 +363,7 @@ client.on('rateLimit', message => {
 BOT TOKEN
 */
 
-client.login('ODAwNTgwNzU4MDExNTEwNzg1.YAUM7g.fSWyhhRj9uoqVTB7kLmiC5bKIcw');
+client.login('Metti Il Tuo Token Del Bot');
 
 
 
